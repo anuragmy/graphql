@@ -1,0 +1,22 @@
+{
+    "users": [
+        {"id" :1, "name" :"Anurag", "companyId":1},
+        {"id" :2, "name" :"Banurag", "companyId":2},
+        {"id" :3, "name" :"Cnurag", "companyId":1},
+        {"id" :4, "name" :"Dnurag"}
+    ],
+    "company": [
+        {
+            "id" :1,
+            "name":"Google"
+        },
+        {
+            "id" :2,
+            "name":"Apple"
+        },
+        {
+            "id" :3,
+            "name":"Mango"
+        }
+    ]
+}
